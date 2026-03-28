@@ -3,9 +3,10 @@
 
 なにができるか？
 
-<div><video controls src="https://github.com/bohemianGlas/AudioAnalyze-Chrome-Extension-simple/blob/main/sample/AudioAnalyze_1_2026-03-28%20161029%20-%20Trim.mp4" muted="false"></video></div>
+<div><video controls src="https://github.com/bohemianGlas/AudioAnalyze-Chrome-Extension-simple/blob/482e8f23491149f82bd7e34a1e486e1cf99b98bb/sample/AudioAnalyze_1_2026-03-28%20161029%20-%20Trim.mp4" muted="false"></video></div>
 
-<div><video controls src="https://github.com/bohemianGlas/AudioAnalyze-Chrome-Extension-simple/blob/main/sample/AudioAnalyze_2_2026-03-28%20160430.mp4" muted="false"></video></div>
+<div><video controls src="https://github.com/bohemianGlas/AudioAnalyze-Chrome-Extension-simple/blob/482e8f23491149f82bd7e34a1e486e1cf99b98bb/sample/AudioAnalyze_2_2026-03-28%20160430.mp4" muted="false"></video></div>
+
 
 動画のようにChromeで再生中の動画・音声のピークレベルと位相チェックをできます
 
