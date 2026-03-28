@@ -3,9 +3,9 @@
 
 なにができるか？
 
-https://x.com/bohemianGlas/status/2037788292104778076
+https://github.com/bohemianGlas/AudioAnalyze-Chrome-Extension-simple/blob/main/sample/AudioAnalyze_1_2026-03-28%20161029%20-%20Trim.mp4
 
-https://x.com/bohemianGlas/status/2037789692587135120
+https://github.com/bohemianGlas/AudioAnalyze-Chrome-Extension-simple/blob/main/sample/AudioAnalyze_2_2026-03-28%20160430.mp4
 
 動画のようにChromeで再生中の動画・音声のピークレベルと位相チェックをできます
 
