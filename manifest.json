@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Audio Phase Analyzer",
+  "version": "1.0",
+  "description": "Audio phase analyzer with peak meter and stereo correlation",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "tabCapture"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
